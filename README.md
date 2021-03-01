@@ -31,7 +31,7 @@ You can make a provider request by opening an issue with the title :
 ```
 Provider request : {theProvider}
 ```
-Don't forget to replace {theProvider} by the provider you're requesting.
+Don't forget to replace `{theProvider}` by the provider you're requesting.
 
 ## Disclosure
 I am not, in any case, responsible of the usage you make of this tool. The goal of it is at educational purpose only.
